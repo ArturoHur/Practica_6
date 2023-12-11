@@ -1,1 +1,1 @@
-# Regresión Polinomial Pultiple
+# Regresión Polinomial Multiple
